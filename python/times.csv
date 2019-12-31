@@ -1,3 +1,4 @@
-id,file_name,difficulty,time,run_time
-1,0001-two_sums.py,easy,6m31s,optimal
-7,0007-reverse_integer.py,easy,6m59s,optimal
+id,file_name,difficulty,time,try
+1,0001-two_sums.py,easy,6m31s,1
+7,0007-reverse_integer.py,easy,6m59s,1
+9,0009-palindrome_number.py,easy,12m34s,1
