@@ -22,3 +22,7 @@ def sortMutates():
   a = [5,4,3,2,1]
   a.sort()
   print(a)
+
+def infinity():
+  pos = float('inf')
+  neg = float('-inf')
