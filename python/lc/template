@@ -4,4 +4,4 @@ class Solution:
 
 # Testing
 soln = Solution()
-print(soln.)
+print("Expected %s: got %s", % (, str(soln.)))
