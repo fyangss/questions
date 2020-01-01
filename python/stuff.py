@@ -17,3 +17,8 @@ def directMatrixAccess():
 
 def stringDuplication():
   print('hi'*3)
+
+def sortMutates():
+  a = [5,4,3,2,1]
+  a.sort()
+  print(a)
