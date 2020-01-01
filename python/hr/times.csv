@@ -1,1 +1,2 @@
-id,file_name,difficulty,time,try
+file_name,difficulty,time,try
+solve_me_first_easy.py,easy,10s,1
