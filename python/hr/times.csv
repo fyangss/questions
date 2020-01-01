@@ -2,3 +2,4 @@ file_name,difficulty,time,try
 solve_me_first_easy.py,easy,10s,1
 simple_array_sum_easy.py,easy,2m17s,1
 compare_the_triplets_easy.py,easy,3m39s,1
+a_very_big_sum_easy.py,easy,47s,1
