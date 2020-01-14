@@ -55,3 +55,4 @@ service_lane_easy.py,easy,5m40s,1
 minimum_distances_easy.py,easy,4m52s,1
 beautiful_triplets_easy.py,easy,8m31s,1
 beautiful_triplets_alt01_easy.py,easy,59s,1
+encryption_medium.py,medium,13m41s,1
