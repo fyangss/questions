@@ -71,3 +71,6 @@ python/validating_postal_codes_hard.py,hard,7m42s,1
 python/matrix_script_hard.py,hard,7m43s,1
 python/word_order_medium.py,medium,2m53s,1
 python/piling_up_medium.py,medium,15m22s,1
+python/list_comprehensions_easy.py,easy,5m07s,1
+python/find_the_runner_up_score_easy.py,easy,2m20s,1
+python/nested_lists_easy.py,easy,6m48s,1
