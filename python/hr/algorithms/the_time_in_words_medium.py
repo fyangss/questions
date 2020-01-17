@@ -12,7 +12,7 @@ def timeInWords(h, m):
   minutes = ' minutes'
   if m == 0 or m == 15 or m == 30 or m == 45:
     minutes = ''
-  if m == 1:
+  if m == 1 or m == 59:
     minutes = ' minute'
   if m == 0:
     return num_word[h] + ' o\' clock'
