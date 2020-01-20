@@ -16,7 +16,6 @@ def strangeCounter(t):
     cur_time += counter
     counter = next_start
     next_start *= 2
-    print(cur_time)
   
   return counter - (t - cur_time)
 
