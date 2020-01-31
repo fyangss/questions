@@ -8,9 +8,6 @@ import sys
 
 # Complete the morganAndString function below.
 def morganAndString(a, b):
-  # Append a 'z' at the end so that the last real character has
-  # a suffix to use for matching
-  # 'zz' will match after 'z', but will append 'real' z
   a = a+'z'
   b = b+'z'
 
