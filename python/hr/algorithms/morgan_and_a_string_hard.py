@@ -8,6 +8,11 @@ import sys
 
 # Complete the morganAndString function below.
 def morganAndString(a, b):
+  # Handles corner case of one string being a prefix of another
+  # e.g. a = 'cbbc', b = 'cbbcaaa', a < b == True and when picking
+  # from b is better. This is true in all cases as best case we
+  # get a smaller string after the prefix and worst case we have
+  # to pick from both anyway so same result.
   a = a+'z'
   b = b+'z'
 
